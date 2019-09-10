@@ -15,4 +15,10 @@ Special thanks to MIT's intro to cs and programming with python for in detail ex
 //Day 3:September 07. Saturday//
 Today's Progress: Learned how to control loops ( for loops & while loops) and how to break statements.
 
+//Day 4:September 08. Sunday//
+ Learned about 'Iterations' and crunched some codes using 'while' loops and 'for' loops
+ 
+//Day 5:September 10. Tuesday//
+Was coding yesterday but forgot to post...won't happen again...lol anyway I went through 'Iteration' and ' 'guess and check chapter' where I was finding a cube root of an integer. 
+
 ### R1D2
