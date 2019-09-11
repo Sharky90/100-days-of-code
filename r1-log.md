@@ -21,4 +21,7 @@ Today's Progress: Learned how to control loops ( for loops & while loops) and ho
 //Day 5:September 10. Tuesday//
 Was coding yesterday but forgot to post...won't happen again...lol anyway I went through 'Iteration' and ' 'guess and check chapter' where I was finding a cube root of an integer. 
 
+//Day 6:September 11. Wednesday//
+Wow how many version are there with the same output?! This was a case instead of nesting a for loop inside a while loop, I had to nest a while loop inside a for loop to get same results... 
+
 ### R1D2
