@@ -24,4 +24,9 @@ Was coding yesterday but forgot to post...won't happen again...lol anyway I went
 //Day 6:September 11. Wednesday//
 Wow how many version are there with the same output?! This was a case instead of nesting a for loop inside a while loop, I had to nest a while loop inside a for loop to get same results... 
 
+//Day 7:September 12. Thursday//
+Today I've learned about 'approximate solutions' (starting with a guess and increment by some small value for some small epsilon)... The exercises are getting harder I must crunch more codes and tackle this course! 💻🤓
+
+
+
 ### R1D2
