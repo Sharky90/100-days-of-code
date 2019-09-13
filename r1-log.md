@@ -27,6 +27,29 @@ Wow how many version are there with the same output?! This was a case instead of
 //Day 7:September 12. Thursday//
 Today I've learned about 'approximate solutions' (starting with a guess and increment by some small value for some small epsilon)... The exercises are getting harder I must crunch more codes and tackle this course! 💻🤓
 
+//Day 8:September 13. Friday//
+Ok... The left problem was the 'AHAa' moment and I was very very happy that I solved it but the right problem I've spent hours... It is supposed to be 2 ... or ?!  
+Right Exercise:
+s = "azcbobobegghakl"
+word = "bob"
+count = s.count(word)
+for word in s:
+      if word == 'bob':
+         count += 1
+print("Number of times bob occurs is: " + str(count))
+Number of times bob occurs is: 1
+
+Left Exercise:
+count = 0 
+s = "azcbobobegghakl"
+for letter in s:
+        if letter == 'a' or letter == 'e' or letter == 'i' or letter == 'o' or letter == 'u':
+                for s in range(1):
+                        count += 1
+print("Number of vowels: " + str(count))
+Number of vowels: 5    
+#100DaysOfCode
+
 
 
 ### R1D2
