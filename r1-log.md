@@ -48,7 +48,11 @@ for letter in s:
                         count += 1
 print("Number of vowels: " + str(count))
 Number of vowels: 5    
-#100DaysOfCode
+
+//Day9: September 14.Saturday//
+Ok today i learned about 'approximate solutions','bisection search'... From tomorrow I am gonna continue with "Automate The Boring Stuff With Python" by Al Sweigart. 
+I want to try and make some fun mini projects... 
+
 
 
 
