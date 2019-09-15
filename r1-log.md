@@ -53,6 +53,34 @@ Number of vowels: 5
 Ok today i learned about 'approximate solutions','bisection search'... From tomorrow I am gonna continue with "Automate The Boring Stuff With Python" by Al Sweigart. 
 I want to try and make some fun mini projects... 
 
+//Day 10: September 15.Sunday//
+Spent time with family but still managed to read about 'Functions' and wrote this funny exercise 'magic8ball' in python... I have to learn one more chaprer 'Lists' and then I'll be able to begin writing some fun programs...😁💻🤗
+
+import random
+
+def getAnswer(answerNumber):
+      if answerNumber == 1:
+            return 'It is certain'
+      elif answerNumber == 2:
+            return 'It is decidedly so'
+      elif answerNumber == 3:
+            return 'Yes'
+      elif answerNumber == 4:
+            return 'Reply hazy try again'
+      elif answerNumber == 5:
+            return 'Ask again later'
+      elif answerNumber == 6:
+            return 'Concentrate and ask again'
+      elif answerNumber == 7:
+            return 'My reply is no'
+      elif answerNumber == 8:
+            return 'Outlook not so good'
+      elif answerNumber == 9:
+            return 'Very doubtful'
+
+r = random.randint(1, 9)
+fortune = getAnswer(r)
+print(fortune)
 
 
 
