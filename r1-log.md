@@ -106,6 +106,8 @@ if guess == secretNumber:
 else:
       print('Nope. The number I was thinking of was ' + str(secretNumber))
       
-
+//Day 12: September 17.Tuesday//
+Busy day but still managed to setup Visual Studio Code while watching Traversy Media adding 15 extensions... Will code tomorrow and go through 'Lists' chapter for python...
+Good Night...😴💤🛌
 
 ### R1D2
