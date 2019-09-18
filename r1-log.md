@@ -110,4 +110,23 @@ else:
 Busy day but still managed to setup Visual Studio Code while watching Traversy Media adding 15 extensions... Will code tomorrow and go through 'Lists' chapter for python...
 Good Night...😴💤🛌
 
+//Day 13: September 17.Wednesday//
+Spent a couple of hours on this 'Collaz' problem I was really into it... I will not skip this problem... but now I am... tired... gonna sleep... dream about the solution... its there somewhere... out there... deep space.. INTERSTELLAR... 🤣🛌💤🛰️🚀🌘☄️
+
+                                #Function definition 
+def collatz(number):
+   if number == 2:
+      return(number // 2)
+   elif number == 1:
+      return(3 * number + 1)
+                                               
+                                               
+                               #Ask for input integer
+print('Enter number: ')
+number = int(input())
+      
+      
+
+
+
 ### R1D2
