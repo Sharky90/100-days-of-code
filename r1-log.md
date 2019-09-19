@@ -124,9 +124,27 @@ def collatz(number):
                                #Ask for input integer
 print('Enter number: ')
 number = int(input())
-      
-      
 
+//Day 14: September 18.Thursday//
+Finally after a lot of trial and error... solved it... although i think I will have to read more about algorithms and problem solving tips... Can anyone recommend me a book?
 
+                                                   #Function definition 
+def collatz(number):
+   if number % 2 == 0:
+      return number // 2
+   else:
+      return 3*number + 1
+      return result
+                                                   #Ask for input integer
+try:
+   n = int(input("Enter number: "))
+   while n != 1:
+      print(n)
+      n = collatz(abs(n))
+   if n == 1:
+      print(n)
+except ValueError:
+   print('Error: Try again.')
+      
 
 ### R1D2
