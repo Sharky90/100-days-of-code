@@ -145,6 +145,23 @@ try:
       print(n)
 except ValueError:
    print('Error: Try again.')
+   
+//Day 15: September 19.Friday //
+So today I was reading about 'Lists' and found a cool program that goes like this... 
+
+catNames = []
+while True:
+   print('Enter the name of cat ' + str(len(catNames) + 1) +
+      ' (Or enter nothing to stop.):')
+   name = input()
+   if name == '':
+         break
+   catNames = catNames + [name] # list concatenation
+print('The cat names are:')
+for name in catNames:
+   print(' ' + name)
+
+
       
 
 ### R1D2
