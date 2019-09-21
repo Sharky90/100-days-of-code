@@ -110,7 +110,7 @@ else:
 Busy day but still managed to setup Visual Studio Code while watching Traversy Media adding 15 extensions... Will code tomorrow and go through 'Lists' chapter for python...
 Good Night...😴💤🛌
 
-//Day 13: September 17.Wednesday//
+//Day 13: September 18.Wednesday//
 Spent a couple of hours on this 'Collaz' problem I was really into it... I will not skip this problem... but now I am... tired... gonna sleep... dream about the solution... its there somewhere... out there... deep space.. INTERSTELLAR... 🤣🛌💤🛰️🚀🌘☄️
 
                                 #Function definition 
@@ -125,7 +125,7 @@ def collatz(number):
 print('Enter number: ')
 number = int(input())
 
-//Day 14: September 18.Thursday//
+//Day 14: September 19.Thursday//
 Finally after a lot of trial and error... solved it... although i think I will have to read more about algorithms and problem solving tips... Can anyone recommend me a book?
 
                                                    #Function definition 
@@ -146,7 +146,7 @@ try:
 except ValueError:
    print('Error: Try again.')
    
-//Day 15: September 19.Friday //
+//Day 15: September 20.Friday //
 So today I was reading about 'Lists' and found a cool program that goes like this... 
 
 catNames = []
@@ -160,6 +160,16 @@ while True:
 print('The cat names are:')
 for name in catNames:
    print(' ' + name)
+   
+//Day 16: September 21.Saturday //
+Was reading about and working with 'lists' and using for loops... Just did this neat program... Taking a bit slow step by step just to understand clearly...
+>>> supplies = ['pens', 'staplers', 'flame-throwers', 'binders']
+>>> for i in range(len(supplies)):
+	print('Index ' + str(i) + ' in supplies is: ' + supplies[i])
+Index 0 in supplies is: pens
+Index 1 in supplies is: staplers
+Index 2 in supplies is: flame-throwers
+Index 3 in supplies is: binders
 
 
       
