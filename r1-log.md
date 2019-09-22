@@ -171,6 +171,10 @@ Index 1 in supplies is: staplers
 Index 2 in supplies is: flame-throwers
 Index 3 in supplies is: binders
 
+//Day 17: September 22.Sunday //
+Learned about 'Augmented Assignment Operators and Methods' in python'. Gonna crunch codes tomorrow at 'hakerrank' just to refresh my memory...🤓💪💻
+
+
 
       
 
