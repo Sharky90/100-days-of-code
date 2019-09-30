@@ -174,6 +174,23 @@ Index 3 in supplies is: binders
 //Day 17: September 22.Sunday //
 Learned about 'Augmented Assignment Operators and Methods' in python'. Gonna crunch codes tomorrow at 'hakerrank' just to refresh my memory...🤓💪💻
 
+//Day 18: September 30.Monday //  
+Hey folks, yeah its been 7 days since i posted my coding progress the reason is because I had to travel for state competition in 10m air pistol. Now that I am back I've re-read some previous chapters about 'Methods' and 'Augmented operators . 
+
+import random
+
+messages = [
+    "It is certain",
+    "It is decidedly so",
+    "Yes definately",
+    "Reply hazy try again",
+    "Ask again later",
+    "Concentrate and ask again",
+    "My reply is no",
+    "Outlook not so good",
+    "Very doubtful",
+]
+print(messages[random.randint(0, len(messages) - 1)])
 
 
       
