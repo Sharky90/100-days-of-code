@@ -192,6 +192,8 @@ messages = [
 ]
 print(messages[random.randint(0, len(messages) - 1)])
 
+//Day 19 October 01.Tuesday //
+So today I was practicing what I learned till now through 'Finxter' and 'Codewars'  and I must say I need to improve more and fix my study habits to solve problems constantly.     
 
       
 
