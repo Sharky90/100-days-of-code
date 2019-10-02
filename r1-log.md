@@ -195,6 +195,10 @@ print(messages[random.randint(0, len(messages) - 1)])
 //Day 19 October 01.Tuesday //
 So today I was practicing what I learned till now through 'Finxter' and 'Codewars'  and I must say I need to improve more and fix my study habits to solve problems constantly.     
 
+//Day 20 October 02.Wednesday//
+Got a fever...very sick... tried 'CodeWars' just to practice a little... can't wait t gett well and learn new stuff from "Automate The Boring Stuff With Python".... 
+🛌😷 #100DaysOfCode 
+
       
 
 ### R1D2
