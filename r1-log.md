@@ -199,6 +199,31 @@ So today I was practicing what I learned till now through 'Finxter' and 'Codewar
 Got a fever...very sick... tried 'CodeWars' just to practice a little... can't wait t gett well and learn new stuff from "Automate The Boring Stuff With Python".... 
 🛌😷 #100DaysOfCode 
 
+//Day 21 October 03.Thursday//
+
+Ok folks... I must admit... After reading about 'References','copy() and deepcopy() functions, I took a practice project called 'Comma Code'... So far I'm like Sherlock finding clues and trying to solve the riddle but I am taking too much time. Is this a problem?
+
+#Comma Code
+
+spam = ['apples', 'bananas', 'tofu', 'cats']
+spam.insert(3,  'and')
+def incrementor (spam):
+      return spam
+
+print(spam)
+
+
+
+
+# += this operator can do string and list concatenation
+# sep = ',' separate list items with a comma
+# sep = ' ' separate list items with a space
+# spam.insert(3, 'and')
+# def incrementor (x):
+#     return   x + 1
+# incrementor(4)
+# returns   5
+
       
 
 ### R1D2
