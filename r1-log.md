@@ -224,6 +224,8 @@ print(spam)
 # incrementor(4)
 # returns   5
 
-      
+// Day 22 October 04.Friday //
+
+Busy day... got late home...tried to solve the 'Comma Code' project... still no good... need to sleep it over and start fresh in the morning... I MUST GET IT DONE !
 
 ### R1D2
