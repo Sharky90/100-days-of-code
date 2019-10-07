@@ -228,4 +228,41 @@ print(spam)
 
 Busy day... got late home...tried to solve the 'Comma Code' project... still no good... need to sleep it over and start fresh in the morning... I MUST GET IT DONE !
 
+// Day 23 october 07.Monday //
+
+After some time struggling with the 'Comma Code' I had to turn it down for some other time and move on with 'Dictionaries and Structuring Data'... Did this 'totalBought' project...One more chapter to go...
+
+allGuests = {'Alice': {'apples': 5, 'pretzels': 12},
+                     'Bob': {'ham sandwiches': 3, 'apples': 2},
+                     'Carol': {'cups': 3, 'apple pies': 1}}
+
+def totalBrought(guests, item):
+      numBrought = 0
+      for k, v in guests.items():
+         numBrought = numBrought + v.get(item, 0)
+      return numBrought
+
+print('Number of things being brought:')
+print('  - Apples                   ' + str(totalBrought(allGuests, 'apples')))
+print('  - Cups                      ' + str(totalBrought(allGuests, 'cups')))
+print('  - Cakes                    ' + str(totalBrought(allGuests, 'cakes')))
+print('  - Ham Sandwiches  ' + str(totalBrought(allGuests, 'ham sandwiches')))
+print('  - Apples Pies           ' + str(totalBrought(allGuests, 'apples pies')))
+
+
+Number of things being brought:
+  - Apples                   7
+  - Cups                      3
+  - Cakes                    0
+  - Ham Sandwiches  3
+  - Apples Pies           0
+  
+  
+  
+
+
+
+
+
+
 ### R1D2
