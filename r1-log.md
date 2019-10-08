@@ -257,9 +257,32 @@ Number of things being brought:
   - Ham Sandwiches  3
   - Apples Pies           0
   
-  
-  
 
+
+// Day 24 october 08.Tuesday // 
+Nearly finished 'Manipulating Strings' chapter just need to do a couple of exercises and that will be it with this book... 
+I will need to focus and work from now on building my own project... Oh and this code is from the last chapter...
+ 
+def printPicnic(itemsDict, leftWidth, rightWidth):
+   print('PICNIC ITEMS'.center(leftWidth + rightWidth, '-'))
+   for k, v in itemsDict.items():
+      print(k.ljust(leftWidth, '.') + str(v).rjust(rightWidth))
+
+picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}
+printPicnic(picnicItems, 12, 5)
+printPicnic(picnicItems, 20, 6)
+
+---PICNIC ITEMS--
+sandwiches..    4
+apples......   12
+cups........    4
+cookies..... 8000
+-------PICNIC ITEMS-------
+sandwiches..........     4
+apples..............    12
+cups................     4
+cookies.............  8000
+>>> 
 
 
 
