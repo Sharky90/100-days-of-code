@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [September 05, Thursday, 2019
 
 ## Log
 
-### R1D1 
+### R1 
 //Day 1:September 05. Thursday//
 Today's Progress: I have learned about "Operators and Branching" (code structure, python boolean types and their order of operation) through MIT course Intro to CS and programming with Python.
 
@@ -259,7 +259,7 @@ Number of things being brought:
   
 
 
-// Day 24 october 08.Tuesday // 
+// Day 24 October 08.Tuesday // 
 Nearly finished 'Manipulating Strings' chapter just need to do a couple of exercises and that will be it with this book... 
 I will need to focus and work from now on building my own project... Oh and this code is from the last chapter...
  
@@ -284,8 +284,48 @@ cups................     4
 cookies.............  8000
 >>> 
 
+// Day 25 October 14.Monday //
+I have a template of my website which I did last year using Photoshop + Axure RP for rapid prototyping, wire-framing. So now I am learning the basics of HTML. I will go through Front-End and Back-End to make it. Also I did the lvl one HTML assessment. 🥳
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Welcome to my Website!</title>
+  </head>
+  <body>
+    <h1>Welcome to my Website!</h1>
+    <p>I'm excited to eventually learn Django!</p>
+    <a href="https://www.djangoproject.com/"
+      >Here is a link to the official Django Website</a
+    >
+    <p>Here is a picture of the Python Logo:</p>
+    <img
+      src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"
+      alt=""
+    />
+    <p>Here are three reasons Django is cool</p>
+    <ol>
+      <li>Ridiculously Fast</li>
+      <li>Reassuringly Secure</li>
+      <li>Exceedingly Scalable</li>
+    </ol>
+    <h2>Bonus: Optional Extra Credit</h2>
+    <p>Can you figure out how to make a picture a link?</p>
+
+    <a href="https://www.djangoproject.com/"
+      ><img
+        src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"
+        alt=""
+    /></a>
+  </body>
+</html>
+
+#100DaysOfCode 
 
 
 
 
-### R1D2
+
+
