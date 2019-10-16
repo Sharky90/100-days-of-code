@@ -322,6 +322,38 @@ I have a template of my website which I did last year using Photoshop + Axure RP
   </body>
 </html>
 
+
+// Day 26 October 16. Wednesday//
+It's going pretty good with HTML, today I learned about 'Forms,Tables,Selection'... Here's what I made with it.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Hotel Feedback</title>
+  </head>
+  <body>
+    <h1>Hotel Feedback Form</h1>
+    <form method="get">
+      <h2>Are you from inside the US? Or outside the US?</h2>
+      <label for="inusa">Inside:</label>
+      <input id="inusa" type="radio" name="loc" value="inside" />
+      <label for="outusa">Outside:</label>
+      <input id="outusa" type="radio" name="loc" value="outside" />
+      <h2>How was your service?</h2>
+      <select name="stars">
+        <option value="Great">3</option>
+        <option value="Okay">2</option>
+        <option value="Bad">1</option>
+      </select>
+      <h2>Any other feedback?</h2>
+      <textarea name="" id="" cols="30" rows="10"></textarea>>
+      <input type="submit" name="" value="SUBMIT" />
+    </form>
+  </body>
+</html>
+
 #100DaysOfCode 
 
 
