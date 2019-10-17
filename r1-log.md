@@ -354,6 +354,76 @@ It's going pretty good with HTML, today I learned about 'Forms,Tables,Selection'
   </body>
 </html>
 
+// Day 27 October 17. Thursday//
+So today I did an assessment of HTML lvl2. Tomorrow will be going through the fundamentals of CSS. Today was an awesome day... 😆🤗💻
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Assignment Test HTML LEVEL 2</title>
+  </head>
+  <body>
+    <h1>Course Sign Up Page</h1>
+    <p>Please Note: First Name, Last Name, Password, and Email are required</p>
+    <form action="THANK YOU!.html" method="GET">
+      <label for="First Name">First Name:</label>
+      <input
+        id="First Name"
+        type="text"
+        name=""
+        placeholder="First Name"
+        required
+      />
+
+      <label for="Last Name">Last Name:</label>
+      <input
+        id="Last Name"
+        type="text"
+        name=""
+        placeholder="Last Name"
+        required
+      />
+
+      <p></p>
+
+      <label for="Email">Email:</label>
+      <input
+        id="Email"
+        type="text"
+        name=""
+        placeholder="name@email.com"
+        required
+      />
+      <label for="Password">Password:</label>
+      <input
+        id="Password"
+        type="password"
+        name="Password"
+        placeholder=""
+        required
+      />
+
+      <p>Are you over the age of 18?</p>
+
+      <label for="Yes">Yes:</label>
+      <input type="radio" name="loc" value="Yes" />
+      <label for="No">No:</label>
+      <input type="radio" name="loc" value="No" />
+      <p>Do you have a Credit Card or PayPal?</p>
+      <select name="stars">
+        <option value="Credit Card">Credit Card</option>
+        <option value="PayPal">PayPal</option></select
+      >
+      <p></p>
+      <input type="submit" name="" value="Submit Feedback" />
+    </form>
+  </body>
+</html>
+
+
+
 #100DaysOfCode 
 
 
