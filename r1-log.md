@@ -422,6 +422,47 @@ So today I did an assessment of HTML lvl2. Tomorrow will be going through the fu
   </body>
 </html>
 
+// Day 28 October 18. Friday//
+
+Keeping up with the work... Today I was going through the basics of CSS customizing the background & border style of an html. 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS BASICS</title>
+    <link rel="stylesheet" href="Part_2master.css" />
+  </head>
+  <body>
+    <p>This is a paragraph, outside any div.</p>
+    <div>
+      <p>I'm inside the div.</p>
+      <p>I'm also inside the div.</p>
+      <p>Inside div <span>INSIDE SPAN!</span></p>
+    </div>
+  </body>
+</html>
+
+body {
+  background: url(https://img2.10bestmedia.com/Images/Photos/352450/GettyImages-913753556_54_990x660.jpg);
+  background-repeat: no-repeat;
+}
+
+div {
+  background-color: blue;
+  border-color: orange;
+  border-width: 5px;
+  border-style: double;
+}
+p {
+  color: yellow;
+}
+
+span {
+  background: red;
+  color: black;
+}
 
 
 #100DaysOfCode 
