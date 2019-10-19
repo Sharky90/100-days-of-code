@@ -464,6 +464,85 @@ span {
   color: black;
 }
 
+// Day 29 October 19. Saturday //
+
+Saturday = Busyday... Managed to go through CSS(selectors ids, classes and "specificity") also finished the first CSS assessment with some minor issues... took a break... went back to it until the solutions appeared... NEVER SETTLE...🤓💻 #100DaysOfCode 
+/*Welcome to your CSS Level One Assessment Test!
+
+For this test, edit the CSS file and complete the commented tasks below!
+You won't be editing and html, but the css file is linked to the html file.
+Watch the video lecture for more info on this! */
+
+/*Task # 1
+Give the body element of the site a light blue background using HEX code*/
+body {
+  background: #0ac6ff;
+}
+
+/*Task # 2
+Change the h1 to have a 1px solid black border*/
+h1 {
+  border: solid 1px black;
+}
+
+/*Task # 3
+Make all h2 elements the color purple*/
+h2 {
+  color: purple;
+}
+
+/*Task # 4
+Make all input boxes have a 2px solid dark red border (use rgb for this)*/
+input {
+  border: solid 2px rgb(255, 10, 10);
+}
+/*Task # 5
+Give a light yellow background to all <p> elements inside of a <div> element
+Use HEX for the color*/
+div p {
+  background: #fff70a;
+}
+/*Task # 6
+There is a textarea element with the id=textblock, give it the following properties:
+* A 5px solid gray border
+* A width of 800px and a height of 400px
+ */
+#textblock {
+  border: solid 5px gray;
+  width: 800px;
+  height: 400px;
+}
+/*Task # 7
+There is a link to Google on the page. Make this link red.*/
+a {
+  color: red;
+}
+
+/*Task # 8
+Make elements with the id="itemone" have an overline text-decoration.
+and be the color purple.*/
+#itemone {
+  text-decoration: overline;
+  color: purple;
+}
+
+/*Task # 9
+Finally, make the elements with the class label "exit" have
+a background of blue and a 4px dashed yellow border.*/
+.exit {
+  background: blue;
+  border: dashed 4px yellow;
+}
+/*BONUS CHALLENGE: Task 10
+There is a link to Google on the page in the list.
+Can you figure out how to change the color if you click on the link?
+(Hint: Google "css visited") */
+a:visited {
+  color: greenyellow;
+}
+
+
+
 
 #100DaysOfCode 
 
