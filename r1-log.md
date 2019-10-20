@@ -542,6 +542,49 @@ a:visited {
 }
 
 
+// Day 30 October 20. Sunday //
+
+Tempo is going good I am very positive with the overall Front End process... Today I learned about CSS Box Model and to adjust your content with padding,border,margin.
+Here is the final assignment... 🥳
+#100DaysOfCode 
+
+#top {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: auto;
+  align-content: center;
+}
+
+#cell1 {
+  background: #011627;
+}
+
+#cell2 {
+  background: #70ff28;
+}
+
+#cell3 {
+  background: #2ec4b6;
+}
+
+#cell4 {
+  background: #e71d36;
+}
+
+#cell5 {
+  background: #ff9f1c;
+}
+table {
+  margin: auto;
+}
+
+td {
+  width: 150px;
+  height: 300px;
+  border: 6px solid white;
+}
+
+
 
 
 #100DaysOfCode 
