@@ -584,6 +584,176 @@ td {
   border: 6px solid white;
 }
 
+// Day 31 October 21. Monday //
+
+Well today I sat down and tried to make a page just to practice my HTML and CSS skills... So I made this replica...
+It took me a while but it was worth it... I just have to make the 'Sign me up!' border label like on the image bellow... 
+#100DaysOfCode 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="CSS_Final.css" />
+    <title>Landing Page</title>
+  </head>
+  <body>
+      <!-- <div class="BORDER"> -->
+          
+    <h1>Welcome to the Landing Page</h1>
+
+    <h2>We're a start-up that does something</h2>
+    <div class="Paragraph1">
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam soluta
+        laboriosam exercitationem architecto expedita recusandae impedit,
+        delectus quibusdam sint repudiandae voluptatum atque ea enim cupiditate
+        voluptatibus nulla saepe ducimus officiis?
+      </p>
+    </div>
+    <div class="Paragraph2">
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia magni
+        aliquid, dolorem dolore tenetur eaque, ab distinctio nam sapiente eum
+        vitae ipsum eligendi. A minima magnam sed recusandae soluta accusantium.
+      </p>
+    </div>
+    <!-- How to make required work ? Should I place all in FORM?-->
+    <h2>Sign up for our upcoming launch!</h2>
+    <!-- AWESOME !!! THIS WORKS !!! =D -->
+    <div class="INPUT">
+      <form action="CSS_Final2.html" method="GET">
+        <p id="First">First Name:</p>
+        <input id="input1" type="text" name="" value="" required />
+        <p id="Last">Last Name:</p>
+        <input id="input2" type="text" name="" value="" required />
+        <p id="Email">Email:</p>
+        <input id="input3" type="email" name="useremail" value="" required />
+        <!-- I hope this works! It works =D !-->
+        <div class="SignIn">
+            <input type="submit" name="" value="Sign me up!"
+          /></a>
+        </div>
+      </form>
+    </div>
+<!-- </div> -->
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="CSS_Final.css" />
+    <title>Thank you</title>
+  </head>
+  <body>
+    <div class="Thankyou">
+      <h3>Thanks for signing up!</h3>
+      <h4>We'll reach out to you soon!</h4>
+    </div>
+  </body>
+</html>
+
+/* Need to make the background color and border...but how? 
+.BORDER is strange maybe to use background on BODY?*/
+/* .BORDER {
+  background: black;
+  border: 40px solid cadetblue;
+} */
+
+body {
+  background: black;
+  border: 40px solid cadetblue;
+}
+/* Adjusting the Headers */
+/* top , right , bottom , left */
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 220%;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  color: white;
+  text-align: center;
+}
+/* Adjusting the paragraphs */
+/* top , right , bottom , left */
+
+.Paragraph1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 130%;
+  color: white;
+  text-align: center;
+  width: 40%;
+  margin: 10% 30% 5%;
+}
+
+.Paragraph2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 130%;
+  color: white;
+  text-align: center;
+  width: 40%;
+  margin: 5% 30% 5%;
+}
+
+/* Adjusting the INPUT */
+/* top , right , bottom , left */
+
+.INPUT {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
+#input1 {
+  width: 20%;
+  padding: 0.65%;
+}
+#input2 {
+  width: 20%;
+  padding: 0.65%;
+}
+#input3 {
+  width: 20%;
+  padding: 0.65%;
+}
+
+#First {
+  margin: 0.1%;
+}
+#Last {
+  margin: 0.1%;
+}
+#Email {
+  margin: 0.1%;
+}
+/* The Thank You Page */
+.Thankyou {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  color: white;
+  text-align: center;
+}
+
+/* Adjusting the 'Sign me up!' label */
+
+.SignIn {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 1%;
+  /* border: 1px solid white; */
+}
+
+
 
 
 
