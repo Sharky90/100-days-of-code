@@ -754,7 +754,8 @@ h2 {
 }
 
 
-
+// Day 32 October 22. Tuesday //
+Was reading about Bootstrap Framework and fundamentals ... No code to day sadly because of work ... Tomorrow is a new day...  #100DaysOfCode 
 
 
 #100DaysOfCode 
