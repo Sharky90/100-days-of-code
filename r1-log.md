@@ -840,6 +840,63 @@ Learned about 'Forms' and 'Navbar' with Bootstrap and how to play with them also
 </html>
 
 
+// Day 34 October 24. Thursday //
+Just learned about Bootstraps 'Grid System' and the column styling resizing, being able to display correctly whole page structure depending on screen size. Need to practice more... will do an assignment...
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <title>Document</title>
+  </head>
+
+  <style>
+    .boxy {
+      background: #b3ddff;
+      border: 2px solid black;
+    }
+  </style>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 boxy">COL Large 4</div>
+      <div class="col-lg-4 boxy">COL Large 4</div>
+      <div class="col-lg-4 boxy">COL Large 4</div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 boxy">COL Med 6</div>
+      <div class="col-md-6 boxy">COL Med 6</div>
+    </div>
+  </div>
+
+  <!-- <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-sm-6 boxy">ONE</div>
+      <div class="col-lg-3 col-sm-6 boxy">TWO</div>
+      <div class="col-lg-3 col-sm-6 boxy">THREE</div>
+      <div class="col-lg-3 col-sm-6 boxy">FOUR</div>
+    </div>
+  </div>
+
+  <!-- <div class="row">
+    <div class="col-lg-6 boxy">
+      <div class="row">
+        <div class="col-lg-6 boxy">NEST ONE</div>
+        <div class="col-lg-6 boxy">NEST TWO</div>
+      </div>
+    </div>
+    <div class="col-lg-6 boxy">TOP LEVEL</div>
+  </div> -->
+
+  <body></body>
+</html>
 
 
 #100DaysOfCode 
