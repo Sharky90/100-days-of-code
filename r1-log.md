@@ -901,6 +901,124 @@ Just learned about Bootstraps 'Grid System' and the column styling resizing, bei
 
 #100DaysOfCode 
 
+// Day 35 October 25. Friday //
+
+Today I tried to do a Bootstrap web project, got so much to do will finish tomorrow... All in all I am very happy with the progress. Oh and yes I am a Tea guy lol. 🍵 
+#100DaysOfCode
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <title>Tea Lover Project</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">Welcome</a>
+      <button
+        class="navabar-toggler bg-dark"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Dropdown
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link disabled"
+              href="#"
+              tabindex="-1"
+              aria-disabled="true"
+              >Disabled</a
+            >
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input
+            class="form-control mr-sm-2"
+            type="search"
+            placeholder="Search"
+            aria-label="Search"
+          />
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
+            Search
+          </button>
+        </form>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Tea Lover Project</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea suscipit
+          iure minus quaerat optio, voluptates voluptate tenetur velit ipsam
+          atque itaque aliquam libero eius eaque. Quasi exercitationem inventore
+          incidunt magnam.
+        </p>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </div>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa
+        consectetur ratione obcaecati, perferendis quod aliquam sequi facere sed
+        incidunt harum aliquid magni aut? Maiores aperiam sed odit fugiat vitae
+        aliquid.
+      </p>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quo
+        ullam alias! Non, laboriosam? Rem error nesciunt dignissimos eum illum
+        officia fugit. Inventore aut assumenda illo dolorem temporibus doloribus
+        aliquam!
+      </p>
+    </div>
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.js"
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
 
 
 
