@@ -1245,4 +1245,7 @@ Finally Bootstrap project done... I have learned a ton of things especially the 
   </body>
 </html>
 
+// Day 37 October 27. Sunday //
 
+Today I just took an introduction to Javascript reading about adding interaction functionality to websites... It will be very cool to make something with JS and I cant wait...🤓💪💻
+#100DaysOfCode 
