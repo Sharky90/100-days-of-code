@@ -1249,3 +1249,64 @@ Finally Bootstrap project done... I have learned a ton of things especially the 
 
 Today I just took an introduction to Javascript reading about adding interaction functionality to websites... It will be very cool to make something with JS and I cant wait...🤓💪💻
 #100DaysOfCode 
+
+// Day 38 October 28. Monday //
+
+Day 37 
+Ok I went through Javascript basics and I laughed when I found out it was actually in Chrome the whole time I though I had to Install separatelly lol. Anyway I was doing basic data types, strings, booleans, math, string concatenation, indexing and var's. 
+#100DaysOfCode 
+VM546:1 Console was cleared
+undefined
+2+2
+4
+5-1
+4
+3*2
+6
+10/2
+5
+2/5
+0.4
+"Django" + " " + "is super cool."
+"Django is super cool."
+"django".lenght
+undefined
+"django".length
+6
+"hello \n start a new line"
+"hello 
+ start a new line"
+"hello"[4]
+"o"
+"look at the dog"[12]
+"d"
+var bankAccount = 100:
+VM1048:1 Uncaught SyntaxError: Unexpected token ':'
+var bank
+undefined
+var bankAccount = 100;
+undefined
+bankAccount
+100
+var deposit = 50;
+undefined
+var total = bankAccount + deposit
+undefined
+total
+150
+var greeting = "Welcome back: ";
+undefined
+var name = "Emin";
+undefined
+alert()
+undefined
+alert(greeting + name)
+undefined
+alert(greeting + name)
+undefined
+alert("HEY!")
+undefined
+console.log("hey im in the console")
+VM1644:1 hey im in the console
+undefined
+prompt("Enter something")
