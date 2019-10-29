@@ -1310,3 +1310,31 @@ console.log("hey im in the console")
 VM1644:1 hey im in the console
 undefined
 prompt("Enter something")
+
+
+
+
+// Day 39 October 29. Tuesday //
+
+A very busy day it was... Tired ... Managed to look at some Javascript and how to connect it to an HTML file...I know nothing thats lame.. but I really need to sleep... tomorrow I'll crunch the heck out of Javascript I promise... 😷🛌🤘
+#100DaysOfCode 
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <script src="myscript.js"></script>
+  </head>
+  <body>
+    <h1>Welcome to your bank!</h1>
+  </body>
+</html>
+
+alert('Welcome to your bank');
+var deposit = prompt('How much would you like to deposit today?');
+alert('Youve deposited: ' + deposit);
+console.log('You are a cool person!');
+
