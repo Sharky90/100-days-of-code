@@ -1338,3 +1338,39 @@ var deposit = prompt('How much would you like to deposit today?');
 alert('Youve deposited: ' + deposit);
 console.log('You are a cool person!');
 
+
+
+// Day 40 October 30. Wednesday //
+So today I red through JS syntax operators, control flow... I have already learned about if statements, booleans and other stuff while learning python so I think I will skim through the JS part till projects part...
+#100DaysOfCode 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="myscript2.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+
+var ham = 0;
+var cheese = 0;
+
+var report = 'blank';
+
+if (ham >= 10 && cheese >= 10) {
+  report = 'Strong sales of both ham and cheese!';
+} else if (ham === 0 && cheese === 0) {
+  report = 'Nothing sold';
+} else {
+  report = 'We had some sales of items.';
+}
+console.log(report);
+
+
+
+
+
+
