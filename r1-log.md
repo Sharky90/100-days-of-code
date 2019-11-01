@@ -1436,4 +1436,72 @@ for (var i = 0; i < 5; i++ ) {
 
 
 
+// Day 42 November 01. Friday //
+
+Today I did a JavaScript lvl 1 project. I know I could have skipped this chapter since I already learned in python but I will finish the chapter probably tomorrow with a project. After that I have DOM and jQuery to tackle in order to advance to Back-End.
+#100DaysOfCode 
+
+alert('Restricted Government Access! Please input your information!');
+
+var first_name = prompt('Please add your first name.');
+alert('Your first name is' + ' ' + first_name);
+var last_name = prompt('Please add your last name.');
+alert('Your last name is' + ' ' + last_name);
+var age = prompt('Please add your age number.');
+alert('Your are' + ' ' + age + ' ' + 'years old.');
+var height = prompt('Please add your height in cm.');
+alert('Your height is' + ' ' + height + ' ' + 'cm.');
+var pet = prompt('Please add your pets name.');
+alert('Your pets name is' + ' ' + pet + '.');
+
+var nameCond = null;
+var ageCond = null;
+var heightCond = null;
+var petCond = null;
+
+if (first_name[0] === last_name[0]) {
+  nameCond = true;
+} else {
+  nameCond = false;
+}
+
+if (age > 50 && age < 70) {
+  ageCond = true;
+} else {
+  ageCond = false;
+}
+
+if (height >= 170) {
+  heightCond = true;
+} else {
+  heightCond = false;
+}
+
+if (pet[pet.length - 1] === 'y') {
+  petCond = true;
+} else {
+  petCond = false;
+}
+
+if (nameCond && ageCond && heightCond && petCond) {
+  report = 'ACCESS GRANTED!';
+} else {
+  report = 'ACCESS DENIED!';
+}
+console.log(report);
+
+// if (
+//   first_name === 'Tom' &&
+//   last_name === 'Travolta' &&
+//   age === '65' &&
+//   height === '189' &&
+//   pet === 'Johnny'
+// ) {
+//   report = 'ACCESS GRANTED!';
+// } else {
+//   report = 'ACCESS DENIED!';
+// }
+// console.log(report);
+
+
 
