@@ -1504,4 +1504,9 @@ console.log(report);
 // console.log(report);
 
 
+// Day 43 November 02. Saturday //
+
+Well today I've went through Javascript_lvl_two chapter doing some simple problems with 'functions','arrays', and 'objects'... So far I prefer Python and will stick to it in the future... Anyway tomorrow will continue with DOM chapter.
+💻🤓
+#100DaysOfCode 
 
