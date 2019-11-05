@@ -1510,3 +1510,29 @@ Well today I've went through Javascript_lvl_two chapter doing some simple proble
 💻🤓
 #100DaysOfCode 
 
+// Day 44 November 05. Tuesday //
+
+Now I took a look on that DOM chapter and I must say now it all makes sense of the front-end structure... I really like the "event listeners" function... Will do a simple project tomorrow... 🤓💻#100DaysOfCode 
+var headOne = document.querySelector('#one');
+var headTwo = document.querySelector('#two');
+var headThree = document.querySelector('#three');
+
+headOne.addEventListener('mouseover', function() {
+  headOne.textContent = 'Mouse Currently Over';
+  headOne.style.color = 'red';
+});
+
+headOne.addEventListener('mouseout', function() {
+  headOne.textContent = 'HOVER OVER ME';
+  headOne.style.color = 'black';
+});
+
+headTwo.addEventListener('click', function() {
+  headTwo.textContent = 'CLICKED ON';
+  headTwo.style.color = 'blue';
+});
+
+headThree.addEventListener('dblclick', function() {
+  headThree.textContent = 'I WAS DOUBLE CLICKED!';
+  headThree.style.color = 'red';
+});
