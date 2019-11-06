@@ -1536,3 +1536,141 @@ headThree.addEventListener('dblclick', function() {
   headThree.textContent = 'I WAS DOUBLE CLICKED!';
   headThree.style.color = 'red';
 });
+
+//Day 45 November 06. Wednesday//
+A awesome day today!
+I just made TicTacToe using the DOM methods... I know as a beginner  I will mostly code in DRY but this is the only way to get to CLEAN later on haha... Persistence is key... Anyway tomorrow will be focusing on jQuery...💪
+#100DaysOfCode 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="tictactoe.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+      integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu"
+      crossorigin="anonymous"
+    />
+    <title>GAME ON!</title>
+  </head>
+  <body>
+    <!-- JUMBOTRON HEADER -->
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Welcome to Tic Tac Toe!</h1>
+        <a id="b" class="btn btn-primary btn-lg" href="#" role="button"
+          >Restart!</a
+        >
+      </div>
+    </div>
+    <!-- BORDER GRID -->
+    <div class="container">
+      <table class="table">
+        <tr>
+          <td id="one"></td>
+          <td id="cell"></td>
+          <td id="cell"></td>
+        </tr>
+        <tr>
+          <td id="cell"></td>
+          <td id="cell"></td>
+          <td id="cell"></td>
+        </tr>
+        <tr>
+          <td id="cell"></td>
+          <td id="cell"></td>
+          <td id="cell"></td>
+        </tr>
+      </table>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.js"
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+      integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+  <script src="Game.js"></script>
+</html>
+
+//Restart game button
+var restart = document.querySelector('#b');
+//Grabs all the squares
+var squares = document.querySelectorAll('td');
+
+//Clear all the squares
+function clearBoard() {
+  for (var i = 0; i < squares.length; i++) {
+    squares[i].textContent = '';
+  }
+}
+
+restart.addEventListener('click', clearBoard);
+//Check the square marker
+
+//1. This is DRY method which I should avoid
+// var cellOne = document.querySelector('#one');
+// cellOne.addEventListener('click', function() {
+//   if (cellOne.textContent === '') {
+//     cellOne.textContent = 'X';
+//   } else if (cellOne.textContent === 'X') {
+//     cellOne.textContent = 'O';
+//   } else {
+//     cellOne.textContent = '';
+//   }
+// });
+
+// 2. The CLEAN correct best way
+function changeMarker() {
+  if (this.textContent === '') {
+    this.textContent = 'X';
+  } else if (this.textContent === 'X') {
+    this.textContent = 'O';
+  } else {
+    this.textContent = '';
+  }
+}
+
+//For Loop to add event Listener to all the squares
+for (let i = 0; i < squares.length; i++) {
+  squares[i].addEventListener('click', changeMarker);
+}
+// var cell = document.querySelector('#cell');
+// cell.addEventListener('click', function() {
+//   cell.textContent = 'X';
+// });
+// cell.addEventListener('dblclick', function() {
+//   cell.textContent = 'O';
+// });
+console.log('Connected!');
+
+table {
+  border: 6px solid black;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 80px;
+}
+
+tr {
+  border: 6px solid black;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
+td {
+  border: 6px solid black;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
