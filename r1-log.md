@@ -1674,3 +1674,8 @@ td {
   text-align: center;
 }
 
+
+//Day 46 November 07. Thursday//
+
+Just did the basics of jQuery grabbing text in HTML, attributes,values and classes... It really does simplify your workflow since its basically a javascript library with many pre-built methods and objects... Tomorrow will be doing a little exercise... 🤘
+#100DaysOfCode
