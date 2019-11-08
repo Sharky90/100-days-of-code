@@ -1679,3 +1679,7 @@ td {
 
 Just did the basics of jQuery grabbing text in HTML, attributes,values and classes... It really does simplify your workflow since its basically a javascript library with many pre-built methods and objects... Tomorrow will be doing a little exercise... 🤘
 #100DaysOfCode
+
+//Day 47 November 08. Friday//
+Big announcement folks ! I just finished with the front-end part! 🤗 Moving now to Back-end and will be using Python & Django... I am really excited and cant wait to make amazing stuff... 💪🤘💻🤓 
+#100DaysOfCode 
