@@ -1738,3 +1738,27 @@ while clue_report != "CODE CRACKED!":
         print(clue)
 
 #100DaysOfCode
+
+
+//Day 49 November 11. Monday//
+Was going through OOP (Object Oriented Programming) just to understand it better and  skimmed through 'Attributes and Methods ' plus the 'Inheritance & special methods' will need to do more exercises.
+#100DaysOfCode 
+class Book:
+    def __init__(self, title, author, pages):
+        self.title = title
+        self.author = author
+        self.pages = pages
+
+    # special method
+    def __str__(self):
+        return "Title: {}, Author: {}, Pages: {}".format(self.title, self.author, self.pages)
+
+    def __len__(self):
+        return self.pages
+
+    def __del__(self):
+        print("a book is destroyed!")
+
+
+b = Book("Python", "Emin", 200)
+del b
