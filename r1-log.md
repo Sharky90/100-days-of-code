@@ -1762,3 +1762,8 @@ class Book:
 
 b = Book("Python", "Emin", 200)
 del b
+
+//Day 50 November 12. Tuesday//
+A busy day it was going through python 'Errors and exception' + ' modules and packages'...
+Finally I am ready to take my first lesson on Django framework for the back-end part... I AM THE BEST !!! 💪🤣💻
+#100DaysOfCode
