@@ -1767,3 +1767,7 @@ del b
 A busy day it was going through python 'Errors and exception' + ' modules and packages'...
 Finally I am ready to take my first lesson on Django framework for the back-end part... I AM THE BEST !!! 💪🤣💻
 #100DaysOfCode
+
+//Day 51 November 14. Thursday//
+Took me whole day to setup conda virtual environment via vscode installing packages Django through conda and pip, rewiring paths for integrated terminal... pfff ... it was a maze... I believe I have setup one venv correctly. All in all Django awaits ! 😷🤖
+#100DaysOfCode 
