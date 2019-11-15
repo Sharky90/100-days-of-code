@@ -1771,3 +1771,7 @@ Finally I am ready to take my first lesson on Django framework for the back-end 
 //Day 51 November 14. Thursday//
 Took me whole day to setup conda virtual environment via vscode installing packages Django through conda and pip, rewiring paths for integrated terminal... pfff ... it was a maze... I believe I have setup one venv correctly. All in all Django awaits ! 😷🤖
 #100DaysOfCode 
+
+//Day 52 November 15. Friday//
+Created my first Django application and learned about "Views" and how to use them... Awesome day ... 🤣💻
+#100DaysOfCode 
