@@ -1775,3 +1775,7 @@ Took me whole day to setup conda virtual environment via vscode installing packa
 //Day 52 November 15. Friday//
 Created my first Django application and learned about "Views" and how to use them... Awesome day ... 🤣💻
 #100DaysOfCode 
+
+//Day 53 November 16. Saturday//
+Did a challenge task of creating a new project and Django app, learned how to run the server. As I see there is a difference between using a string of html code instead of a normal string.🙂
+#100DaysOfCode
