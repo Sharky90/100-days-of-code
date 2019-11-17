@@ -1779,3 +1779,11 @@ Created my first Django application and learned about "Views" and how to use the
 //Day 53 November 16. Saturday//
 Did a challenge task of creating a new project and Django app, learned how to run the server. As I see there is a difference between using a string of html code instead of a normal string.🙂
 #100DaysOfCode
+
+//Day 54 November 17. Sunday //
+
+Day 53
+Learned today about Django - Url Mapping and the ability of using the 'include()' function to keep projects clean and modular. After that learned about Django - Templates and I do now have a basic understanding of how Django works... 
+#100DaysOfCode 
+
+
