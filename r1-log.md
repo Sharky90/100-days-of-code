@@ -1784,4 +1784,7 @@ Did a challenge task of creating a new project and Django app, learned how to ru
 Learned today about Django - Url Mapping and the ability of using the 'include()' function to keep projects clean and modular. After that learned about Django - Templates and I do now have a basic understanding of how Django works... 
 #100DaysOfCode 
 
+//Day 55 November 20. Wednesday //
 
+Learned about static files in Django - and did a summary project Url Mapping, template and static files, had an issue adding template tags since the jpg image wasn't showing up... Will review it again just to mind map it... Next will be 'Models'. 
+#100DaysOfCode 
