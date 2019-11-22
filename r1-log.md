@@ -1788,3 +1788,8 @@ Learned today about Django - Url Mapping and the ability of using the 'include()
 
 Learned about static files in Django - and did a summary project Url Mapping, template and static files, had an issue adding template tags since the jpg image wasn't showing up... Will review it again just to mind map it... Next will be 'Models'. 
 #100DaysOfCode 
+
+//Day 56 November 22. Friday //
+
+Today I was learning about Django "Models" and I have to say it is awesome to see something built completely with just a few lines of code + SQL databases ( in this case heres an admin page)... Django is powerfull ! 💪
+#100DaysOfCode
