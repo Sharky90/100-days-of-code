@@ -1793,3 +1793,8 @@ Learned about static files in Django - and did a summary project Url Mapping, te
 
 Today I was learning about Django "Models" and I have to say it is awesome to see something built completely with just a few lines of code + SQL databases ( in this case heres an admin page)... Django is powerfull ! 💪
 #100DaysOfCode
+
+//Day 57 November 23. Saturday //
+
+Sometimes its good to make a script to populate your models with some "fake" data... So I learned about Django - Population Script "FAKER" and its library, it really is a cool thing to have. lol 🤣🤘
+#100DaysOfCode
