@@ -1798,3 +1798,8 @@ Today I was learning about Django "Models" and I have to say it is awesome to se
 
 Sometimes its good to make a script to populate your models with some "fake" data... So I learned about Django - Population Script "FAKER" and its library, it really is a cool thing to have. lol 🤣🤘
 #100DaysOfCode
+
+//Day 58 November 26. Tuesday //
+
+After learning about how Django operates what is known as Models-Templates-Views, my goal was to learn how to connect everything. To practice this I have started with generating a table. And then I ran into a problem. Posted on Stack Overflow. 🧐Sherlock
+#100DaysOfCode 
