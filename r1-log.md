@@ -1803,3 +1803,8 @@ Sometimes its good to make a script to populate your models with some "fake" dat
 
 After learning about how Django operates what is known as Models-Templates-Views, my goal was to learn how to connect everything. To practice this I have started with generating a table. And then I ran into a problem. Posted on Stack Overflow. 🧐Sherlock
 #100DaysOfCode 
+
+//Day 59 December 01. Sunday //
+
+Finally solved the issues after punishing hours and lack of sleep. Table connection and other Django import features now work... Had to check VS Code extensions and also Django documentation... Now I can continue my journey normally... NEVER GIVE UP !🤕💪
+#100DaysOfCode
