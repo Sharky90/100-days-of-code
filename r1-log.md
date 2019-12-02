@@ -1808,3 +1808,7 @@ After learning about how Django operates what is known as Models-Templates-Views
 
 Finally solved the issues after punishing hours and lack of sleep. Table connection and other Django import features now work... Had to check VS Code extensions and also Django documentation... Now I can continue my journey normally... NEVER GIVE UP !🤕💪
 #100DaysOfCode
+
+//Day 60 December 02. Monday //
+This was tough but I managed. I am showing the table solution and a new User model that will display all the Users for my appFour with basic information randomly populated  and using "Faker" library. I was a maze... will practice it more in the future...😌
+#100DaysOfCode
