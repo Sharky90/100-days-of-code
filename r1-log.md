@@ -1812,3 +1812,7 @@ Finally solved the issues after punishing hours and lack of sleep. Table connect
 //Day 60 December 02. Monday //
 This was tough but I managed. I am showing the table solution and a new User model that will display all the Users for my appFour with basic information randomly populated  and using "Faker" library. I was a maze... will practice it more in the future...😌
 #100DaysOfCode
+
+//Day 61 December 03. Tuesday //
+Wow first time using site security measures Cross Site Request Forgery(CSRF), learned about basic 'forms'... Django is awesome...🤗
+#100DaysOfCode
