@@ -1816,3 +1816,8 @@ This was tough but I managed. I am showing the table solution and a new User mod
 //Day 61 December 03. Tuesday //
 Wow first time using site security measures Cross Site Request Forgery(CSRF), learned about basic 'forms'... Django is awesome...🤗
 #100DaysOfCode
+
+//Day 62 December 04. Wednesday //
+"Form Validation" I mean wow how cool and easy it is to use the built in Django validators that are highly recommended.
+Beware of E-Corp !!! 🤫.............................Mr.Robot🤖
+#100DaysOfCode 
