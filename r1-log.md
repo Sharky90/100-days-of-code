@@ -1821,3 +1821,9 @@ Wow first time using site security measures Cross Site Request Forgery(CSRF), le
 "Form Validation" I mean wow how cool and easy it is to use the built in Django validators that are highly recommended.
 Beware of E-Corp !!! 🤫.............................Mr.Robot🤖
 #100DaysOfCode 
+
+//Day 63 December 05. Thursday //
+Learned about Model Forms and how Django makes accepting form input and passing it to a model very simple.
+The forms.ModelForm helper class creates a form from a pre-existing model. Interesting...🤔🙂
+#100DaysOfCode 
+
