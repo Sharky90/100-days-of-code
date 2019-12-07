@@ -1827,3 +1827,6 @@ Learned about Model Forms and how Django makes accepting form input and passing 
 The forms.ModelForm helper class creates a form from a pre-existing model. Interesting...🤔🙂
 #100DaysOfCode 
 
+//Day 64 December 07. Saturday //
+I've checked about Django - Relative URLs with templates and learned about replacing hardcoded URL path in an href with a URL Template, but evetually this method isn't good therefore I will be using future-proof method adding variable 'app_name'. 😃💻
+#100DaysOfCode 
