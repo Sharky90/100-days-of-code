@@ -1830,3 +1830,8 @@ The forms.ModelForm helper class creates a form from a pre-existing model. Inter
 //Day 64 December 07. Saturday //
 I've checked about Django - Relative URLs with templates and learned about replacing hardcoded URL path in an href with a URL Template, but evetually this method isn't good therefore I will be using future-proof method adding variable 'app_name'. 😃💻
 #100DaysOfCode 
+
+//Day 65 December 08. Sunday //
+
+Wow how Django is awesome! The template inheritance allows to create a base template to inherit from which means no more DRY principle which makes it much easier to maintain the ergonomics of everything. 💻🤗🤘
+#100DaysOfCode 
