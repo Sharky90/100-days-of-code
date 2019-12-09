@@ -1835,3 +1835,9 @@ I've checked about Django - Relative URLs with templates and learned about repla
 
 Wow how Django is awesome! The template inheritance allows to create a base template to inherit from which means no more DRY principle which makes it much easier to maintain the ergonomics of everything. 💻🤗🤘
 #100DaysOfCode 
+
+//Day 66 December 09.Sunday //
+
+Used custom template filters to effect injections also there are awesome built-in Python functions in the Django documentation section.
+I used the custom filter 'cut' with function defined and the 'add' filter, then I used 'decorators' to register. 🙂
+#100DaysOfCode
