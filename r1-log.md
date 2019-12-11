@@ -1846,3 +1846,7 @@ I used the custom filter 'cut' with function defined and the 'add' filter, then 
 
 Learned about 'User Authentication' how to select different hashing algorithms for passwords and set them up in the settings.py file. I will remember this line : NEVER STORE PASSWORDS AS PLAIN TEXT ! Also got curious about SHA-256! 🧐🙀🤓
 #100DaysOfCode 
+
+//Day 68 December 11.Wednesday //
+
+Learned about setting User Authentication Models and Forms. The next part will need to connect all of this to the templates(home page, login page, registration page). 🙂🤘
