@@ -1850,3 +1850,10 @@ Learned about 'User Authentication' how to select different hashing algorithms f
 //Day 68 December 11.Wednesday //
 
 Learned about setting User Authentication Models and Forms. The next part will need to connect all of this to the templates(home page, login page, registration page). 🙂🤘
+
+//Day 69 December 12.Thursday //
+Day 68
+
+Continuing from yesterday...
+I've setup base.html, index.html and registration.html  linking to the actual context dictionary, then the basics.py for both the project and the application I'll add more stuff to them because I am not done yet.😬
+#100DaysOfCode
