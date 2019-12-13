@@ -1852,8 +1852,14 @@ Learned about 'User Authentication' how to select different hashing algorithms f
 Learned about setting User Authentication Models and Forms. The next part will need to connect all of this to the templates(home page, login page, registration page). 🙂🤘
 
 //Day 69 December 12.Thursday //
-Day 68
 
 Continuing from yesterday...
 I've setup base.html, index.html and registration.html  linking to the actual context dictionary, then the basics.py for both the project and the application I'll add more stuff to them because I am not done yet.😬
 #100DaysOfCode
+
+// Day 70 December 13.Friday //
+
+Successfully made a registration page and registered a new user  I did have some tagging problems such as the {% endblock %} but found the solution eventually. Must be more careful with code formatting in the future. 😬🤓
+#100DaysOfCode
+
+
