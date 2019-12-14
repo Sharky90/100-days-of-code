@@ -1863,3 +1863,8 @@ Successfully made a registration page and registered a new user  I did have some
 #100DaysOfCode
 
 
+// Day 71 December 14.Saturday //
+
+Once a user is registered, I've wanted to make sure that they can log in and log out of the site. I've setup login views,used built-in decorators for access,added login_url in the settings,created the login.html then edited the urls.py
+💪💻
+#100DaysOfCode 
