@@ -1868,3 +1868,9 @@ Successfully made a registration page and registered a new user  I did have some
 Once a user is registered, I've wanted to make sure that they can log in and log out of the site. I've setup login views,used built-in decorators for access,added login_url in the settings,created the login.html then edited the urls.py
 💪💻
 #100DaysOfCode 
+
+// Day 72 December 16.Monday //
+
+Searched/researched the corners of the internet about the difference b/w Shared Hosting, VPS Hosting, Dedicated Hosting, Cloud Hosting, Serverless for Django Deployment.
+I am soooooooooooo tired... 
+#100DaysOfCode
