@@ -1874,3 +1874,8 @@ Once a user is registered, I've wanted to make sure that they can log in and log
 Searched/researched the corners of the internet about the difference b/w Shared Hosting, VPS Hosting, Dedicated Hosting, Cloud Hosting, Serverless for Django Deployment.
 I am soooooooooooo tired... 
 #100DaysOfCode
+
+// Day 73 December 17.Tuesday //
+
+After thorough research I decided "pythonanywhere" to be my deployment option. I have also installed Git and made a github account, learned some basics repositories, branching. Still so many topics to learn... Need to stay positive and crazy... 😆
+#100DaysOfCode
