@@ -1879,3 +1879,8 @@ I am soooooooooooo tired...
 
 After thorough research I decided "pythonanywhere" to be my deployment option. I have also installed Git and made a github account, learned some basics repositories, branching. Still so many topics to learn... Need to stay positive and crazy... 😆
 #100DaysOfCode
+
+// Day 74 December 18.Wednesday //
+
+Wow what a brutal day... spent 6 hr straight on deploying Django sample project via 'pythonanywhere'... ran into some problem regarding debuging and pip. All in all I managed to solve the issues and deployed but still more stuff to do... It was awesome !
+#100DaysOfCode
