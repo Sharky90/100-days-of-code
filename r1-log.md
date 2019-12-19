@@ -1884,3 +1884,9 @@ After thorough research I decided "pythonanywhere" to be my deployment option. I
 
 Wow what a brutal day... spent 6 hr straight on deploying Django sample project via 'pythonanywhere'... ran into some problem regarding debuging and pip. All in all I managed to solve the issues and deployed but still more stuff to do... It was awesome !
 #100DaysOfCode
+
+// Day 75 December 19.Thursday //
+
+Still recovering from yesterday... Eyes are soo dry and bloody...Installed f.lux adjusted screen gamma... 
+As for coding I just read about 'Class Based View's and I can't wait to get back on track... 😬
+#100DaysOfCode
