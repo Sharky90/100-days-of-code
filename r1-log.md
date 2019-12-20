@@ -1890,3 +1890,8 @@ Wow what a brutal day... spent 6 hr straight on deploying Django sample project 
 Still recovering from yesterday... Eyes are soo dry and bloody...Installed f.lux adjusted screen gamma... 
 As for coding I just read about 'Class Based View's and I can't wait to get back on track... 😬
 #100DaysOfCode
+
+// Day 76 December 20.Friday //
+
+Got back on track ! Ok so I've played around  with'Class Based View's and I find it slow paced than the function based view maybe there is a way to speed up the process?
+#100DaysOfCode 
