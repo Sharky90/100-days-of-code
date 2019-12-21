@@ -1895,3 +1895,8 @@ As for coding I just read about 'Class Based View's and I can't wait to get back
 
 Got back on track ! Ok so I've played around  with'Class Based View's and I find it slow paced than the function based view maybe there is a way to speed up the process?
 #100DaysOfCode 
+
+// Day 77 December 21.Saturday //
+
+Ahaa so now with template views I can show a template with CBV's and very quickly display information 'List & Detail views' from my model. Nice... 💻💪😬
+#100DaysOfCode
