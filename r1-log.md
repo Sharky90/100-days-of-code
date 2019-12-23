@@ -1900,3 +1900,9 @@ Got back on track ! Ok so I've played around  with'Class Based View's and I find
 
 Ahaa so now with template views I can show a template with CBV's and very quickly display information 'List & Detail views' from my model. Nice... 💻💪😬
 #100DaysOfCode
+
+// Day 78 December 22. Monday //
+
+Part two of 'List & Detail views' ran into some issues and couldn't figure out what the solution is I better check Djangos Documentation thoroughly. Need to rest now ! 
+🤯
+#100DaysOfCode
