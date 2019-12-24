@@ -1906,3 +1906,8 @@ Ahaa so now with template views I can show a template with CBV's and very quickl
 Part two of 'List & Detail views' ran into some issues and couldn't figure out what the solution is I better check Djangos Documentation thoroughly. Need to rest now ! 
 🤯
 #100DaysOfCode
+
+// Day 79 December 24. Tuesday //
+
+Part three of 'List & Detail views' fixed the issues and I swear I must be more careful with indentation,spacing, single+double quotes😖. Those tiny problems can cause a SUPERNOVA... All in all I SOLVED the issue 🤠💪
+#100DaysOfCode
