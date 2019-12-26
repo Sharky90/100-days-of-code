@@ -1911,3 +1911,8 @@ Part two of 'List & Detail views' ran into some issues and couldn't figure out w
 
 Part three of 'List & Detail views' fixed the issues and I swear I must be more careful with indentation,spacing, single+double quotes😖. Those tiny problems can cause a SUPERNOVA... All in all I SOLVED the issue 🤠💪
 #100DaysOfCode
+
+// Day 80 December 26. Thursday //
+
+Read about 'CRUD' and how its inherent to almost every website. I was trying to create a new school by adding a class in the 'http://views.py' but nooooooooo code formater had to mess something up... will continue tomorrow... 🙃
+#100DaysOfCode
