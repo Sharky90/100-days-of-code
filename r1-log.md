@@ -1916,3 +1916,8 @@ Part three of 'List & Detail views' fixed the issues and I swear I must be more 
 
 Read about 'CRUD' and how its inherent to almost every website. I was trying to create a new school by adding a class in the 'http://views.py' but nooooooooo code formater had to mess something up... will continue tomorrow... 🙃
 #100DaysOfCode
+
+// Day 81 December 27. Friday //
+
+Continued with 'CRUD' from yesterday and all I can say is that this will be a life savior for bigger projects together with Django.  I have enjoyed learning about Updating ,Deleting and Creating Views and now is the time to make a clone project ... 😊👨‍💻
+#100DaysOfCode
