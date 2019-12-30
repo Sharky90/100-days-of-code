@@ -1921,3 +1921,9 @@ Read about 'CRUD' and how its inherent to almost every website. I was trying to 
 
 Continued with 'CRUD' from yesterday and all I can say is that this will be a life savior for bigger projects together with Django.  I have enjoyed learning about Updating ,Deleting and Creating Views and now is the time to make a clone project ... 😊👨‍💻
 #100DaysOfCode
+
+//Day 82 December 30. Monday //
+
+Started with a blog clone project,finally summarizing everything I have done so far. 2020 will be awesome for tackling new projects. The to-do list includes:
+making a portfolio, become a Python3.0 Jedi master, reading more coding books, Leetcoding...😄
+#100DaysOfCode
