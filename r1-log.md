@@ -1927,3 +1927,8 @@ Continued with 'CRUD' from yesterday and all I can say is that this will be a li
 Started with a blog clone project,finally summarizing everything I have done so far. 2020 will be awesome for tackling new projects. The to-do list includes:
 making a portfolio, become a Python3.0 Jedi master, reading more coding books, Leetcoding...😄
 #100DaysOfCode
+
+//Day 83 January 02. 2020 Thursday //
+
+Continuing with the blog clone project and this time I have setup the 'forms.py' file and learned how to use the 'widgets' in order to tinker CSS classes to particular widgets.
+😃 #100DaysOfCode
