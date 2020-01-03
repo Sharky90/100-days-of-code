@@ -1928,7 +1928,14 @@ Started with a blog clone project,finally summarizing everything I have done so 
 making a portfolio, become a Python3.0 Jedi master, reading more coding books, Leetcoding...😄
 #100DaysOfCode
 
+<<<<<<<<<<<<<<<<<<     WELCOME TO 2020 EXP >>>>>>>>>>>>>>>>>>>>
+
 //Day 83 January 02. 2020 Thursday //
 
 Continuing with the blog clone project and this time I have setup the 'forms.py' file and learned how to use the 'widgets' in order to tinker CSS classes to particular widgets.
 😃 #100DaysOfCode
+
+// Day 84 January 03. Friday //
+
+Blog project continued.Tried to keep up after tons of coding issues. I just hope it will turn out ok. This time I've added a bunch of class based views,this is the first time I encounter 'Mixins import'. There will be a cluster-f*** of Errors. lol 🤯👨‍💻🤪
+#100DaysOfCode 
