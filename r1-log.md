@@ -1939,3 +1939,8 @@ Continuing with the blog clone project and this time I have setup the 'forms.py'
 
 Blog project continued.Tried to keep up after tons of coding issues. I just hope it will turn out ok. This time I've added a bunch of class based views,this is the first time I encounter 'Mixins import'. There will be a cluster-f*** of Errors. lol 🤯👨‍💻🤪
 #100DaysOfCode 
+
+// Day 85 January 04. Saturday //
+
+Part 4 of clone project. So after doing the views and urls, this time I had to create templates for the blog post Class Based Views and then function views that will handle the comments. I am positive about this but there will be a river of errors ! 🙃😃
+#100DaysOfCode 
