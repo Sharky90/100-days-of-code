@@ -1944,3 +1944,8 @@ Blog project continued.Tried to keep up after tons of coding issues. I just hope
 
 Part 4 of clone project. So after doing the views and urls, this time I had to create templates for the blog post Class Based Views and then function views that will handle the comments. I am positive about this but there will be a river of errors ! 🙃😃
 #100DaysOfCode 
+
+// Day 86 January 06. Monday //
+
+Part 5 clone project: Had to wrap up all the urls by setting up a quick authentication system that runs on top of the "superuser" group.  Tried to setup some of CSS calls in the base.html file but theres sooo much more to do... 😃💻💪
+#100DaysOfCode
