@@ -1949,3 +1949,9 @@ Part 4 of clone project. So after doing the views and urls, this time I had to c
 
 Part 5 clone project: Had to wrap up all the urls by setting up a quick authentication system that runs on top of the "superuser" group.  Tried to setup some of CSS calls in the base.html file but theres sooo much more to do... 😃💻💪
 #100DaysOfCode
+
+// Day 87 January 07. Tuesday //
+
+Part 6 clone project: 
+Setting up some of the css and javascript calls. Made sure that the user when logged in the site will be able to see other options such as creating a new post, drafts, loging out and something that says welcome user.  Codeslinger!🤠
+#100DaysOfCode 
