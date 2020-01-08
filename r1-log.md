@@ -1955,3 +1955,8 @@ Part 5 clone project: Had to wrap up all the urls by setting up a quick authenti
 Part 6 clone project: 
 Setting up some of the css and javascript calls. Made sure that the user when logged in the site will be able to see other options such as creating a new post, drafts, loging out and something that says welcome user.  Codeslinger!🤠
 #100DaysOfCode 
+
+// Day 88 January 08. Wednesday //
+
+Part 7 clone project:
+Worked on filling out the rest of the templates and post_detail.html where I placed a title class, postdate, postpublish, postcontent edit/remove post,add comment to the post,and a container with all the comments linked to that post.😃#100DaysOfCode 
