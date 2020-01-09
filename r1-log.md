@@ -1960,3 +1960,8 @@ Setting up some of the css and javascript calls. Made sure that the user when lo
 
 Part 7 clone project:
 Worked on filling out the rest of the templates and post_detail.html where I placed a title class, postdate, postpublish, postcontent edit/remove post,add comment to the post,and a container with all the comments linked to that post.😃#100DaysOfCode 
+
+// Day 89 January 09. Thursday //
+
+Part 8 clone project: continued filling out the rest of the templates 'post form'(when creating or editing a new post),then the about page,base.html,comments,post confirm delete, post detail, draft lists, post list all ready and the login.html ready. 💪💻
+#100DaysOfCode 
