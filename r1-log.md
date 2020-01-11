@@ -1965,3 +1965,8 @@ Worked on filling out the rest of the templates and post_detail.html where I pla
 
 Part 8 clone project: continued filling out the rest of the templates 'post form'(when creating or editing a new post),then the about page,base.html,comments,post confirm delete, post detail, draft lists, post list all ready and the login.html ready. 💪💻
 #100DaysOfCode 
+
+// Day 90 January 11. Saturday //
+
+My blog clone project is finished! After spending a whole day fixing bugs, errors, checking latest Django documentation, syntax, it is done. Hmm well I was thinking to work on the design more but structure is more important for me! Will post tomorrow!😴🛌
+#100DaysOfCode
