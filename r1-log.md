@@ -1970,3 +1970,8 @@ Part 8 clone project: continued filling out the rest of the templates 'post form
 
 My blog clone project is finished! After spending a whole day fixing bugs, errors, checking latest Django documentation, syntax, it is done. Hmm well I was thinking to work on the design more but structure is more important for me! Will post tomorrow!😴🛌
 #100DaysOfCode
+
+// Day 91 January 12. Sunday //
+
+Blog clone project fully functional! Its not much but i will continue making more stuff! I have learned much about Django framework and the flow from front-end to back-end but to fully understand and be confident i'll have to make more projects! 😃💪💻
+#100DaysOfCode 
