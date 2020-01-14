@@ -1975,3 +1975,7 @@ My blog clone project is finished! After spending a whole day fixing bugs, error
 
 Blog clone project fully functional! Its not much but i will continue making more stuff! I have learned much about Django framework and the flow from front-end to back-end but to fully understand and be confident i'll have to make more projects! 😃💪💻
 #100DaysOfCode 
+
+// Day 92 January 14. Tuesday //
+
+Ok so I've decided on a another mini clone project that will have some similarities with other social sites. The end of the first round of the 100 days coding challenge is approaching ! 😀💻💪 #100DaysOfCode 
