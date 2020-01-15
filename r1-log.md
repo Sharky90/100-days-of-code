@@ -1979,3 +1979,9 @@ Blog clone project fully functional! Its not much but i will continue making mor
 // Day 92 January 14. Tuesday //
 
 Ok so I've decided on a another mini clone project that will have some similarities with other social sites. The end of the first round of the 100 days coding challenge is approaching ! 😀💻💪 #100DaysOfCode 
+
+// Day 93 January 15. Wednesday //
+
+Getting some rest these days oh and I have just setup the Django powered webpage working but tomorrow will be setting up accounts for my next clone project. 
+Happy coding everyone ! 😃💪💻
+#100DaysOfCode 
