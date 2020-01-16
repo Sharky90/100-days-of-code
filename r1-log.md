@@ -1985,3 +1985,8 @@ Ok so I've decided on a another mini clone project that will have some similarit
 Getting some rest these days oh and I have just setup the Django powered webpage working but tomorrow will be setting up accounts for my next clone project. 
 Happy coding everyone ! 😃💪💻
 #100DaysOfCode 
+
+// Day 94 January 16. Thursday //
+
+For my second clone project I've setup a simple 'User' model in my accounts and created a simple 'SignUp' view , will continue filling the html files and connecting the views to url. I will be extra careful with Djangos documentation when importing stuff.
+#100DaysOfCode 
