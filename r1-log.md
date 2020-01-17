@@ -1990,3 +1990,8 @@ Happy coding everyone ! 😃💪💻
 
 For my second clone project I've setup a simple 'User' model in my accounts and created a simple 'SignUp' view , will continue filling the html files and connecting the views to url. I will be extra careful with Djangos documentation when importing stuff.
 #100DaysOfCode 
+
+// Day 95 January 17. Friday //
+
+Continued with the accounts application and setup template file though there will be some clash with Django docs so i will need to update some stuff. Next thing would be to make migrations and make sure the accounts are setup properly. 🥱💤😴
+#100DaysOfCode 
