@@ -1995,3 +1995,8 @@ For my second clone project I've setup a simple 'User' model in my accounts and 
 
 Continued with the accounts application and setup template file though there will be some clash with Django docs so i will need to update some stuff. Next thing would be to make migrations and make sure the accounts are setup properly. 🥱💤😴
 #100DaysOfCode 
+
+// Day 96 January 20. Monday //
+
+Finished the accounts application Login/Logout and sign up capabilities and setup the migrations.  Now will focus on posts and groups. 
+#100DaysOfCode
