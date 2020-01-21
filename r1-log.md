@@ -2000,3 +2000,8 @@ Continued with the accounts application and setup template file though there wil
 
 Finished the accounts application Login/Logout and sign up capabilities and setup the migrations.  Now will focus on posts and groups. 
 #100DaysOfCode
+
+// Day 97 January 21. Tuesday //
+
+Built models for groups setup the Group class and groupMember class with(group that belongs to and user that connects to the groupMember) and a string representation as a username. Then I added the Group class model with its components. 🙂🤞 pls work! 😃
+#100DaysOfCode 
