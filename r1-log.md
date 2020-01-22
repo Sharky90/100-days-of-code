@@ -2005,3 +2005,8 @@ Finished the accounts application Login/Logout and sign up capabilities and setu
 
 Built models for groups setup the Group class and groupMember class with(group that belongs to and user that connects to the groupMember) and a string representation as a username. Then I added the Group class model with its components. 🙂🤞 pls work! 😃
 #100DaysOfCode 
+
+// Day 98 January 22. Wednesday //
+
+Today I added models for 'posts' class, setup the string representation method, save method, get_absolute url method which means once someone has posted something where are we gonna send them and then a ‘Meta’ class for other information. 🤠💻
+#100DaysOfCode
