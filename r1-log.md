@@ -2010,3 +2010,10 @@ Built models for groups setup the Group class and groupMember class with(group t
 
 Today I added models for 'posts' class, setup the string representation method, save method, get_absolute url method which means once someone has posted something where are we gonna send them and then a ‘Meta’ class for other information. 🤠💻
 #100DaysOfCode
+
+// Day 99 January 23. Thursday //
+
+Focused on Groups by creating the Views for the Groups template and connecting the template files to those views.
+Will add two more complicated views for joining a group and leaving a group. Cant wait to get this project working ! 
+Need to recover! 🛌💤
+#100DaysOfCode
