@@ -2017,3 +2017,8 @@ Focused on Groups by creating the Views for the Groups template and connecting t
 Will add two more complicated views for joining a group and leaving a group. Cant wait to get this project working ! 
 Need to recover! 🛌💤
 #100DaysOfCode
+
+// Day 100 January 24. Friday //
+
+I've connected the views created in Groups to some urls and also registered the Groups models in the admin.py file. I hope to finish this clone project soon after the R1 of 100days of code finishes... 🙂🤞
+#100DaysOfCode
